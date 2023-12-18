@@ -15,7 +15,6 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-  - [💻 Project Presentation](#presentation)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -31,7 +30,7 @@
 
 # 📖 TV Shows <a name="about-project"></a>
 
-An online Tv shows engagement app that fetches data from and Tv maze API and allows for user interaction with another API to like and comment on their favorite Tv shows.
+An online TV show engagement app that fetches data from and TV maze API and allows for user interaction with another API to like and comment on their favorite TV shows.
 
 ## 🛠 Built With <a name="built-with"></a>
 The app is built using Webpack as a bundler.
@@ -50,7 +49,8 @@ The app is built using Webpack as a bundler.
 <!-- LIVE DEMO  -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- Comming soon.
+- https://tv-shows-byo.netlify.app/
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
